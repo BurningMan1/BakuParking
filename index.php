@@ -1,5 +1,5 @@
 <?php
 
-include_once("BakuParking.html");
+include_once("index.html");
 
 ?>
