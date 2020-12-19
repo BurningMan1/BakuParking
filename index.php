@@ -1,5 +1,5 @@
 <?php
 
-include_once("parking.html");
+include_once("home.html");
 
 ?>
